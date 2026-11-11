@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "neatsaves": {
+      "url": "https://YOUR-DEPLOYMENT.convex.site/mcp",
+      "headers": { "Authorization": "Bearer bm_YOUR_KEY" }
+    }
+  }
+}
